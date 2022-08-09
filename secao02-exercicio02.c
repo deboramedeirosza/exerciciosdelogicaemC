@@ -1,3 +1,4 @@
+//Faça um algoritmo para somar dois números e multiplicar o resultado pelo primeiro número.
 #include <stdio.h>
 //std = Standard (Padrão)
 //io = input/output (Entrada/Saída)
