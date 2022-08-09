@@ -1,3 +1,5 @@
+//Faça um algoritmo para calcular o "estoque médio de uma peça", sendo que: estoque_medio = (quantidade_minima + quantidade_maxima) / 2
+
 #include <stdio.h>
 
 int main (){
